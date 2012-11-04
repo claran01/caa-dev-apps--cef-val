@@ -12,7 +12,7 @@ sub-projects on the google hosted caa-dev-apps project.
 Command line usage:
 ===================
 
-./app-name -I /include/path/ceh-heaaders-#1 -I /include/path/ceh-heaaders-#2 ... /path-to-cef-filename.cef
+    ./app-name -I /include/path/ceh-heaaders-#1 -I /include/path/ceh-heaaders-#2 ... /path-to-cef-filename.cef
 
 
     options:
