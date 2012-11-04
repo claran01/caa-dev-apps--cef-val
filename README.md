@@ -14,16 +14,26 @@ Command line usage:
 
 ./app-name -I /include/path/ceh-heaaders-#1 -I /include/path/ceh-heaaders-#2 ... /path-to-cef-filename.cef
 
+
+    options:
+        -toXML          // convert metadata to XML
+        -metaOnly       // skip data
+        
+
+
 TODO:
 =====
  - parse header data of main cef file
  - parse referenced ceh files
  - check/validate header meta data
+    - filename format
     - correct names
     - data types
+    - enumerated types
     - more to follow
  - read data records
     - check timestamps
-    - data types
+    - variable data types
     - fill-vals
+    - number of variables
     - more
