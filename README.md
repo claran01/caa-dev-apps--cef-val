@@ -5,8 +5,7 @@ A cef (Cluster Exchange Format) validator.
 
 
 A small project to parse and validate cef files.
-The initial idea is to reuse some of the lua code that was used in various
-sub-projects on the google hosted caa-dev-apps project.
+The initial idea is to reuse some of the lua code that was used on the google hosted caa-dev-apps project.
 
 
 Command line usage:
