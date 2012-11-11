@@ -36,3 +36,12 @@ TODO:
     - fill-vals
     - number of variables
     - more
+
+
+    
+    
+```ruby
+  def foo
+    puts 'Hello, World!'
+  end
+```    
